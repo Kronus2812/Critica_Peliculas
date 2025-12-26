@@ -1,7 +1,5 @@
 # TuReseña - Plataforma de Críticas de Películas
 
-![Movie Review App](https://via.placeholder.com/1200x300/2d3436/ffffff?text=TuRese%C3%B1a+-+Movie+Reviews)
-
 ## Descripción
 
 Aplicación web de reseñas cinematográficas donde los usuarios pueden explorar catálogos de películas, ver detalles completos, reproducir trailers y publicar sus propias críticas con calificaciones. Todo funciona 100% client-side con persistencia en LocalStorage.
@@ -409,7 +407,3 @@ Stack: Frontend, Backend, Python, JavaScript, SQL, PHP, React, CSS, HTML
 Repositorio: [github.com/Kronus2812/Critica_Peliculas](https://github.com/Kronus2812/Critica_Peliculas)
 
 ---
-
-## Licencia
-
-MIT License - Proyecto educativo para aprendizaje de desarrollo web frontend.
