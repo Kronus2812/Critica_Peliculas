@@ -165,13 +165,13 @@ $text-color: #your-text-color;
 
 ---
 
-##  Autor
+## Desarrollador
 
-**Tomas Martinez** ([@Kronus2812](https://github.com/Kronus2812))  
- tomasmartinez2006@gmail.com  
- [Portafolio](https://tomascode.urbanlens.com.co/)
+**Kronus2812**
 
-Full Stack Developer | Frontend | Backend | JavaScript | React | PHP | SQL
+Stack: Frontend, Backend, Python, JavaScript, SQL, PHP, React, CSS, HTML
+
+Repositorio: [github.com/Kronus2812/Critica_Peliculas](https://github.com/Kronus2812/Critica_Peliculas.git)
 
 ---
 
