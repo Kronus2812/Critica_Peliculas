@@ -165,11 +165,11 @@ $text-color: #your-text-color;
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **Tomas Martinez** ([@Kronus2812](https://github.com/Kronus2812))  
-📧 tomasmartinez2006@gmail.com  
-🌐 [Portafolio](https://tomascode.urbanlens.com.co/)
+ tomasmartinez2006@gmail.com  
+ [Portafolio](https://tomascode.urbanlens.com.co/)
 
 Full Stack Developer | Frontend | Backend | JavaScript | React | PHP | SQL
 
