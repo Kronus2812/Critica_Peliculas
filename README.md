@@ -165,21 +165,6 @@ $text-color: #your-text-color;
 
 ---
 
-##  Posibles mejoras futuras
-
-- [ ] Integración con API de películas (TMDB, OMDb)
-- [ ] Sistema de calificación de usuarios
-- [ ] Comentarios y reseñas de usuarios
-- [ ] Favoritos y lista de deseos
-- [ ] Paginación del catálogo
-- [ ] Más filtros (género, actor, director)
-- [ ] Modo claro/oscuro toggle
-- [ ] Compartir en redes sociales
-- [ ] Backend para persistencia de datos
-- [ ] Autenticación de usuarios
-
----
-
 ## 👨‍💻 Autor
 
 **Tomas Martinez** ([@Kronus2812](https://github.com/Kronus2812))  
