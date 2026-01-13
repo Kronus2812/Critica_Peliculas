@@ -22,7 +22,7 @@ Aplicación web interactiva para explorar, buscar y visualizar información deta
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 ### Frontend
 - **HTML5**: Estructura semántica de la aplicación
