@@ -1,4 +1,4 @@
-# 🎬 TuReseña - Crítica de Películas
+#  TuReseña - Crítica de Películas
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
@@ -10,15 +10,15 @@ Aplicación web interactiva para explorar, buscar y visualizar información deta
 
 ---
 
-## 🎯 Características principales
+##  Características principales
 
-- 🔍 **Búsqueda de películas**: Sistema de búsqueda en tiempo real por título
-- 📅 **Filtrado por año**: Filtra películas por año de lanzamiento (2024, 2025)
-- 🎥 **Visualización de trailers**: Integración con YouTube para ver trailers
-- 📱 **Diseño responsivo**: Compatible con dispositivos móviles, tablets y desktop
-- 🎨 **Interfaz moderna**: Diseño limpio con Bootstrap 5.3 y SCSS personalizado
-- ⚡ **Rendimiento optimizado**: JavaScript vanilla para máxima velocidad
-- 🌙 **Tema oscuro**: Interfaz con paleta de colores oscuros y modernos
+-  **Búsqueda de películas**: Sistema de búsqueda en tiempo real por título
+-  **Filtrado por año**: Filtra películas por año de lanzamiento (2024, 2025)
+-  **Visualización de trailers**: Integración con YouTube para ver trailers
+-  **Diseño responsivo**: Compatible con dispositivos móviles, tablets y desktop
+-  **Interfaz moderna**: Diseño limpio con Bootstrap 5.3 y SCSS personalizado
+-  **Rendimiento optimizado**: JavaScript vanilla para máxima velocidad
+-  **Tema oscuro**: Interfaz con paleta de colores oscuros y modernos
 
 ---
 
@@ -36,7 +36,7 @@ Aplicación web interactiva para explorar, buscar y visualizar información deta
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 Critica_Peliculas/
@@ -58,7 +58,7 @@ Critica_Peliculas/
 
 ---
 
-## ✨ Funcionalidades detalladas
+##  Funcionalidades detalladas
 
 ### 1. Catálogo de películas
 - Listado de películas con poster, título, año y género
@@ -91,7 +91,7 @@ Critica_Peliculas/
 
 ---
 
-## 🚀 Instalación y uso
+##  Instalación y uso
 
 ### Requisitos previos
 - Navegador web moderno (Chrome, Firefox, Safari, Edge)
@@ -128,7 +128,7 @@ Critica_Peliculas/
 
 ---
 
-## 📊 Base de datos de películas
+##  Base de datos de películas
 
 El proyecto incluye información de las siguientes películas:
 
@@ -143,7 +143,7 @@ El proyecto incluye información de las siguientes películas:
 
 ---
 
-## 🎨 Personalización de estilos
+##  Personalización de estilos
 
 ### Editar colores y temas
 
@@ -165,7 +165,7 @@ $text-color: #your-text-color;
 
 ---
 
-## 💡 Posibles mejoras futuras
+##  Posibles mejoras futuras
 
 - [ ] Integración con API de películas (TMDB, OMDb)
 - [ ] Sistema de calificación de usuarios
@@ -190,30 +190,3 @@ Full Stack Developer | Frontend | Backend | JavaScript | React | PHP | SQL
 
 ---
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si quieres mejorar este proyecto:
-
-1. Haz un fork del repositorio
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`)
-3. Realiza tus cambios y haz commit (`git commit -m 'Agregar nueva funcionalidad'`)
-4. Sube los cambios (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
-
----
-
-## 🙏 Agradecimientos
-
-- [Bootstrap](https://getbootstrap.com/) por el framework CSS
-- [Font Awesome](https://fontawesome.com/) por los iconos (si aplica)
-- Comunidad de desarrolladores por la inspiración
-
----
-
-⭐ **Si te gustó este proyecto, no olvides darle una estrella en GitHub**
